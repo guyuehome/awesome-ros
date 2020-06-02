@@ -29,6 +29,8 @@ Websites:
 
 Courses:
 * [ROS入门21讲](https://www.bilibili.com/video/av59458869?from=search&seid=14130773534647455907) - 机器人开发之路扬帆起航
+* [古月学院](https://class.guyuehome.com/) - 古月居视频课程平台
+
 
 Books：
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-ROS-Robotics-Programming-Operating/dp/1788478959), by Lentin Joseph
@@ -41,8 +43,16 @@ Books：
 * [ROS机器人开发实践](https://item.jd.com/12377412.html), by 胡春旭
 
 ## 2.ROS2
+Websites:
 * [ROS2 Documentation](https://index.ros.org/doc/ros2/) - ROS 2 Documentation
 * [ros2/design](https://github.com/ros2/design) - Design documentation for ROS 2.0 effort.
+
+Tutorials: 
+* [Navigation 2](https://navigation.ros.org/) - the spiritual successor of the ROS Navigation Stack.
+
+Courses:
+* [Self-Driving Cars with ROS and Autoware](https://www.apex.ai/autoware-course) - hosted by Apex.AI
+
 
 ## 3.Robotics
 Courses:
